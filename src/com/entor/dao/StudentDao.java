@@ -61,4 +61,5 @@ public interface StudentDao {
 	 * @return
 	 */
 	public List<Student> queryAll();
+	public void test();
 }

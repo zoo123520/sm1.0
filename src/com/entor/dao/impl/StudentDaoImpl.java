@@ -271,4 +271,10 @@ public class StudentDaoImpl implements StudentDao{
 		return list;
 	}
 
+	@Override
+	public void test() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
